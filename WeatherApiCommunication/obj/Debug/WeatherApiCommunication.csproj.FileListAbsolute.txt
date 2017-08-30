@@ -1,0 +1,13 @@
+C:\Users\noah0030\OneDrive for Business\Softwarekonstruktion\S2\WeatherApi\WeatherApiCommunication\bin\Debug\WeatherApiCommunication.dll
+C:\Users\noah0030\OneDrive for Business\Softwarekonstruktion\S2\WeatherApi\WeatherApiCommunication\bin\Debug\WeatherApiCommunication.pdb
+C:\Users\noah0030\OneDrive for Business\Softwarekonstruktion\S2\WeatherApi\WeatherApiCommunication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\noah0030\OneDrive for Business\Softwarekonstruktion\S2\WeatherApi\WeatherApiCommunication\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\noah0030\OneDrive for Business\Softwarekonstruktion\S2\WeatherApi\WeatherApiCommunication\bin\Debug\System.Web.Http.dll
+C:\Users\noah0030\OneDrive for Business\Softwarekonstruktion\S2\WeatherApi\WeatherApiCommunication\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\noah0030\OneDrive for Business\Softwarekonstruktion\S2\WeatherApi\WeatherApiCommunication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\noah0030\OneDrive for Business\Softwarekonstruktion\S2\WeatherApi\WeatherApiCommunication\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\noah0030\OneDrive for Business\Softwarekonstruktion\S2\WeatherApi\WeatherApiCommunication\bin\Debug\System.Web.Http.xml
+C:\Users\noah0030\OneDrive for Business\Softwarekonstruktion\S2\WeatherApi\WeatherApiCommunication\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\noah0030\OneDrive for Business\Softwarekonstruktion\S2\WeatherApi\WeatherApiCommunication\obj\Debug\WeatherApiCommunication.csprojResolveAssemblyReference.cache
+C:\Users\noah0030\OneDrive for Business\Softwarekonstruktion\S2\WeatherApi\WeatherApiCommunication\obj\Debug\WeatherApiCommunication.dll
+C:\Users\noah0030\OneDrive for Business\Softwarekonstruktion\S2\WeatherApi\WeatherApiCommunication\obj\Debug\WeatherApiCommunication.pdb

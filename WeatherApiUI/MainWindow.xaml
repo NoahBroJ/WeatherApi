@@ -1,0 +1,19 @@
+﻿<Window x:Class="WeatherApiUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WeatherApiUI"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="400" Width="600">
+    <Grid>
+        <!--<Grid.Background>
+            <ImageBrush ImageSource="/../img/Scattering_of_clouds.jpg"/>
+        </Grid.Background>-->
+        <TextBox Name="tbxSearch" HorizontalAlignment="Left" Height="40" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="250" FontSize="26"/>
+        <Button Content="🔍" HorizontalAlignment="Left" Height="40" Margin="250,0,0,0" VerticalAlignment="Top" Width="40" FontSize="20" Click="Button_Click"/>
+        <Label Name="lblCity" Content="" HorizontalAlignment="Center" Height="60" Margin="100,100,100,0" VerticalAlignment="Top" Width="407" FontSize="36" HorizontalContentAlignment="Center"/>
+        <Label Name="lblTemp" Content="" HorizontalAlignment="Center" Height="60" Margin="100,200,100,0" VerticalAlignment="Top" Width="407" FontSize="36" HorizontalContentAlignment="Center"/>
+
+    </Grid>
+</Window>
